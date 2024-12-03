@@ -1,6 +1,6 @@
 # ecommarce-dashboard
-##This excel dashboard  based on (KPI)
-###inside the project
+## This excel dashboard  based on (KPI)
+### inside the project
 * Data cleaning.
 * Pivot Table analysis.
 * Compare sales and profit in combo chart in pivot table..
