@@ -1,5 +1,5 @@
 # ecommarce-dashboard
-## Designed an Excel-based dashboard using pivot tables and KPIs to provide actionable insights for an e-commerce business:
+### Designed an Excel-based dashboard using pivot tables and KPIs to provide actionable insights for an e-commerce business:
 
 Data Preparation: Cleaned and organized raw data for analysis.
 - Pivot Table Analysis: Used dynamic tables to extract insights.
