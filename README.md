@@ -1,5 +1,5 @@
 # ecommarce-dashboard
-## This excel dashboard  based on (KPI)
+## This excel dashboard  based pivot table (KPI)
 ### inside the project
 * Data cleaning.
 * Pivot Table analysis.
